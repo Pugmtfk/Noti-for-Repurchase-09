@@ -1,0 +1,835 @@
+{
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "รายการ สินค้าซื้อประจำ",
+                "size": "11px",
+                "color": "#373737",
+                "weight": "bold"
+              }
+            ],
+            "justifyContent": "center",
+            "width": "50.5%",
+            "offsetStart": "12px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "จำนวนแนะนำ",
+                "size": "11px",
+                "color": "#373737",
+                "weight": "bold",
+                "align": "end"
+              }
+            ],
+            "offsetStart": "10px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "วันที่ควรซื้อ",
+                "size": "11px",
+                "color": "#373737",
+                "weight": "bold",
+                "align": "end"
+              }
+            ]
+          }
+        ],
+        "width": "100%",
+        "alignItems": "center",
+        "paddingBottom": "18px",
+        "paddingTop": "18px",
+        "paddingEnd": "8px"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "filler"
+          }
+        ],
+        "backgroundColor": "#DCDDDF",
+        "borderWidth": "1px",
+        "borderColor": "#FFFFFF99"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "1",
+                "size": "12px",
+                "color": "#C0C0C0"
+              }
+            ],
+            "width": "5%",
+            "justifyContent": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.discordapp.com/attachments/1166245055342850111/1187094591543984148/image_329_10.png?ex=6595a2fd&is=65832dfd&hm=71c068511021fc5166bf163c881b6ab8213ca2e3a03d4608e9537045b85b2364&",
+                "size": "full",
+                "aspectMode": "fit"
+              }
+            ],
+            "width": "14%",
+            "cornerRadius": "5px",
+            "offsetStart": "8px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ไม้ฝา_SCG 15x300  มะค่าประกายเงา คลูพลัส",
+                "size": "12px",
+                "color": "#373737",
+                "wrap": true
+              }
+            ],
+            "width": "125px",
+            "offsetStart": "12px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "20",
+                "size": "12px",
+                "color": "#7D7D7D"
+              }
+            ],
+            "width": "10%",
+            "alignItems": "center",
+            "margin": "4px",
+            "justifyContent": "center",
+            "offsetStart": "10px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "20 ต.ค 66",
+                "size": "12px",
+                "color": "#7D7D7D"
+              }
+            ],
+            "margin": "8px",
+            "alignItems": "center",
+            "offsetStart": "8px",
+            "justifyContent": "center"
+          }
+        ],
+        "width": "100%",
+        "margin": "8px",
+        "paddingAll": "0px",
+        "paddingStart": "12px",
+        "paddingEnd": "12px"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "2",
+                "size": "12px",
+                "color": "#C0C0C0"
+              }
+            ],
+            "width": "5%",
+            "justifyContent": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.discordapp.com/attachments/1166245055342850111/1187094591543984148/image_329_10.png?ex=6595a2fd&is=65832dfd&hm=71c068511021fc5166bf163c881b6ab8213ca2e3a03d4608e9537045b85b2364&",
+                "size": "full",
+                "aspectMode": "fit"
+              }
+            ],
+            "width": "14%",
+            "cornerRadius": "5px",
+            "offsetStart": "8px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ไม้ฝา_SCG 15x300  ไนท์เกรย์ คลูพลัส",
+                "size": "12px",
+                "color": "#373737",
+                "wrap": true
+              }
+            ],
+            "width": "125px",
+            "offsetStart": "12px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "60",
+                "size": "12px",
+                "color": "#7D7D7D"
+              }
+            ],
+            "width": "10%",
+            "alignItems": "center",
+            "margin": "4px",
+            "justifyContent": "center",
+            "offsetStart": "10px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "20 ต.ค 66",
+                "size": "12px",
+                "color": "#7D7D7D"
+              }
+            ],
+            "margin": "8px",
+            "alignItems": "center",
+            "offsetStart": "8px",
+            "justifyContent": "center"
+          }
+        ],
+        "width": "100%",
+        "margin": "8px",
+        "paddingAll": "0px",
+        "paddingStart": "12px",
+        "paddingEnd": "12px"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "3",
+                "size": "12px",
+                "color": "#C0C0C0"
+              }
+            ],
+            "width": "5%",
+            "justifyContent": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.discordapp.com/attachments/1166245055342850111/1187094591543984148/image_329_10.png?ex=6595a2fd&is=65832dfd&hm=71c068511021fc5166bf163c881b6ab8213ca2e3a03d4608e9537045b85b2364&",
+                "size": "full",
+                "aspectMode": "fit"
+              }
+            ],
+            "width": "14%",
+            "cornerRadius": "5px",
+            "offsetStart": "8px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ไม้ฝา_SCG 15x300  มะค่าประกายเงา คลูพลัส",
+                "size": "12px",
+                "color": "#373737",
+                "wrap": true
+              }
+            ],
+            "width": "125px",
+            "offsetStart": "12px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "85",
+                "size": "12px",
+                "color": "#7D7D7D"
+              }
+            ],
+            "width": "10%",
+            "alignItems": "center",
+            "margin": "4px",
+            "justifyContent": "center",
+            "offsetStart": "10px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "20 ต.ค 66",
+                "size": "12px",
+                "color": "#7D7D7D"
+              }
+            ],
+            "margin": "8px",
+            "alignItems": "center",
+            "offsetStart": "8px",
+            "justifyContent": "center"
+          }
+        ],
+        "width": "100%",
+        "margin": "8px",
+        "paddingAll": "0px",
+        "paddingStart": "12px",
+        "paddingEnd": "12px"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "4",
+                "size": "12px",
+                "color": "#C0C0C0"
+              }
+            ],
+            "width": "5%",
+            "justifyContent": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.discordapp.com/attachments/1166245055342850111/1187094591543984148/image_329_10.png?ex=6595a2fd&is=65832dfd&hm=71c068511021fc5166bf163c881b6ab8213ca2e3a03d4608e9537045b85b2364&",
+                "size": "full",
+                "aspectMode": "fit"
+              }
+            ],
+            "width": "14%",
+            "cornerRadius": "5px",
+            "offsetStart": "8px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ไไม้ฝา_SCG 15x300  สักทอง ประกายเงา",
+                "size": "12px",
+                "color": "#373737",
+                "wrap": true
+              }
+            ],
+            "width": "125px",
+            "offsetStart": "12px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "100",
+                "size": "12px",
+                "color": "#7D7D7D"
+              }
+            ],
+            "width": "10%",
+            "alignItems": "center",
+            "margin": "4px",
+            "justifyContent": "center",
+            "offsetStart": "10px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "20 ต.ค 66",
+                "size": "12px",
+                "color": "#7D7D7D"
+              }
+            ],
+            "margin": "8px",
+            "alignItems": "center",
+            "offsetStart": "8px",
+            "justifyContent": "center"
+          }
+        ],
+        "width": "100%",
+        "margin": "8px",
+        "paddingAll": "0px",
+        "paddingStart": "12px",
+        "paddingEnd": "12px"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "5",
+                "size": "12px",
+                "color": "#C0C0C0"
+              }
+            ],
+            "width": "5%",
+            "justifyContent": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.discordapp.com/attachments/1166245055342850111/1187094591543984148/image_329_10.png?ex=6595a2fd&is=65832dfd&hm=71c068511021fc5166bf163c881b6ab8213ca2e3a03d4608e9537045b85b2364&",
+                "size": "full",
+                "aspectMode": "fit"
+              }
+            ],
+            "width": "14%",
+            "cornerRadius": "5px",
+            "offsetStart": "8px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ไม้ฝา_SCG 15x300  มินิมอลบีช สักทองประกายเงา",
+                "size": "12px",
+                "color": "#373737",
+                "wrap": true
+              }
+            ],
+            "width": "125px",
+            "offsetStart": "12px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "250",
+                "size": "12px",
+                "color": "#7D7D7D"
+              }
+            ],
+            "width": "10%",
+            "alignItems": "center",
+            "margin": "4px",
+            "justifyContent": "center",
+            "offsetStart": "10px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "20 ต.ค 66",
+                "size": "12px",
+                "color": "#7D7D7D"
+              }
+            ],
+            "margin": "8px",
+            "alignItems": "center",
+            "offsetStart": "8px",
+            "justifyContent": "center"
+          }
+        ],
+        "width": "100%",
+        "margin": "8px",
+        "paddingAll": "0px",
+        "paddingStart": "12px",
+        "paddingEnd": "12px"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "6",
+                "size": "12px",
+                "color": "#C0C0C0"
+              }
+            ],
+            "width": "5%",
+            "justifyContent": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.discordapp.com/attachments/1166245055342850111/1187094591543984148/image_329_10.png?ex=6595a2fd&is=65832dfd&hm=71c068511021fc5166bf163c881b6ab8213ca2e3a03d4608e9537045b85b2364&",
+                "size": "full",
+                "aspectMode": "fit"
+              }
+            ],
+            "width": "14%",
+            "cornerRadius": "5px",
+            "offsetStart": "8px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ไม้ฝา_SCG 15x300  โอ๊คแดง ประกายเงา",
+                "size": "12px",
+                "color": "#373737",
+                "wrap": true
+              }
+            ],
+            "width": "125px",
+            "offsetStart": "12px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "65",
+                "size": "12px",
+                "color": "#7D7D7D"
+              }
+            ],
+            "width": "10%",
+            "alignItems": "center",
+            "margin": "4px",
+            "justifyContent": "center",
+            "offsetStart": "10px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "20 ต.ค 66",
+                "size": "12px",
+                "color": "#7D7D7D"
+              }
+            ],
+            "margin": "8px",
+            "alignItems": "center",
+            "offsetStart": "8px",
+            "justifyContent": "center"
+          }
+        ],
+        "width": "100%",
+        "margin": "8px",
+        "paddingAll": "0px",
+        "paddingStart": "12px",
+        "paddingEnd": "12px"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "7",
+                "size": "12px",
+                "color": "#C0C0C0"
+              }
+            ],
+            "width": "5%",
+            "justifyContent": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.discordapp.com/attachments/1166245055342850111/1187094591543984148/image_329_10.png?ex=6595a2fd&is=65832dfd&hm=71c068511021fc5166bf163c881b6ab8213ca2e3a03d4608e9537045b85b2364&",
+                "size": "full",
+                "aspectMode": "fit"
+              }
+            ],
+            "width": "14%",
+            "cornerRadius": "5px",
+            "offsetStart": "8px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ไม้ฝา_SCG 15x300  ซีเมนต์ คลูพลัส",
+                "size": "12px",
+                "color": "#373737",
+                "wrap": true
+              }
+            ],
+            "width": "125px",
+            "offsetStart": "12px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "25",
+                "size": "12px",
+                "color": "#7D7D7D"
+              }
+            ],
+            "width": "10%",
+            "alignItems": "center",
+            "margin": "4px",
+            "justifyContent": "center",
+            "offsetStart": "10px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "20 ต.ค 66",
+                "size": "12px",
+                "color": "#7D7D7D"
+              }
+            ],
+            "margin": "8px",
+            "alignItems": "center",
+            "offsetStart": "8px",
+            "justifyContent": "center"
+          }
+        ],
+        "width": "100%",
+        "margin": "8px",
+        "paddingAll": "0px",
+        "paddingStart": "12px",
+        "paddingEnd": "12px"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "size": "12px",
+                "color": "#C0C0C0",
+                "text": "8"
+              }
+            ],
+            "width": "5%",
+            "justifyContent": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.discordapp.com/attachments/1166245055342850111/1187094591543984148/image_329_10.png?ex=6595a2fd&is=65832dfd&hm=71c068511021fc5166bf163c881b6ab8213ca2e3a03d4608e9537045b85b2364&",
+                "size": "full",
+                "aspectMode": "fit"
+              }
+            ],
+            "width": "14%",
+            "cornerRadius": "5px",
+            "offsetStart": "8px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ไม้ฝา_SCG 15x300  ไนท์เกรย์ คูลพลัส",
+                "size": "12px",
+                "color": "#373737",
+                "wrap": true
+              }
+            ],
+            "width": "125px",
+            "offsetStart": "12px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "16",
+                "size": "12px",
+                "color": "#7D7D7D"
+              }
+            ],
+            "width": "10%",
+            "alignItems": "center",
+            "margin": "4px",
+            "justifyContent": "center",
+            "offsetStart": "10px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "20 ต.ค 66",
+                "size": "12px",
+                "color": "#7D7D7D"
+              }
+            ],
+            "margin": "8px",
+            "alignItems": "center",
+            "offsetStart": "8px",
+            "justifyContent": "center"
+          }
+        ],
+        "width": "100%",
+        "margin": "8px",
+        "paddingAll": "0px",
+        "paddingStart": "12px",
+        "paddingEnd": "12px"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "filler"
+          }
+        ],
+        "backgroundColor": "#DCDDDF",
+        "borderWidth": "1px",
+        "borderColor": "#FFFFFF99",
+        "margin": "10px"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ดูรายละเอียด",
+            "weight": "bold",
+            "size": "16px",
+            "color": "#FB7800"
+          }
+        ],
+        "paddingTop": "7px",
+        "paddingBottom": "7px",
+        "paddingStart": "14px",
+        "paddingEnd": "14px",
+        "justifyContent": "center",
+        "alignItems": "center"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.discordapp.com/attachments/1166245055342850111/1187114782600466483/Frame_1000004950.png?ex=6595b5cb&is=658340cb&hm=e71bf42345267c3298e3558043489e9424315c583237bc0cc1b41639ee7733a6&",
+                "size": "full",
+                "aspectRatio": "14:1"
+              }
+            ],
+            "offsetStart": "116px"
+          }
+        ],
+        "paddingTop": "8px",
+        "paddingBottom": "8px"
+      }
+    ],
+    "paddingAll": "0px"
+  }
+}
